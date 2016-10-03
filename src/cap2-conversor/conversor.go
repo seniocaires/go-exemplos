@@ -46,3 +46,5 @@ func main() {
     fmt.Printf("%.2f %s = %.2f %s ", valorOrigem, unidadeOrigem, valorDestino, unidadeDestino)
   }
 }
+
+// go run src/cap2-conversor/conversor.go 32 27.4 -3 0 celcius
